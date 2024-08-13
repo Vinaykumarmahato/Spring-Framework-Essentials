@@ -83,195 +83,161 @@ This course provides an in-depth look at essential aspects of the Spring Framewo
 - 💻 **Transaction Management with Spring Lab** 
 - 🎬 **Demo - Transaction Management with Spring Lab**
 
+# 🌟 Free Spring Framework Essentials Course on YouTube! 🚀
 
-# 🌟 Spring Framework Essentials: Study Roadmap
+Welcome to the **Spring Framework Essentials** course! I’m Vinay Kumar, and I’m thrilled to offer this **FREE** course designed to help you master the Spring Framework. Follow this structured roadmap over the next nine weeks to gain a deep understanding of Spring and earn a certificate upon successful completion!
 
-Welcome to the **Spring Framework Essentials** course repository! 🚀 This guide provides a clear, day-by-day roadmap to mastering the Spring Framework. Follow these steps to build a solid understanding of Spring's core features.
+## 📅 Course Roadmap
 
-## 📅 Study Plan
+### **Course Format**
 
-### **Day 1: Getting Started with Spring** 🌱
+- **Weekly Videos**: Each week, I’ll release a new video covering the day’s topics. Expect **one video per week**, with content aligned to the day-by-day roadmap below.
+- **Dedicated Q&A Sessions**: Address your doubts or questions during our **weekly Q&A sessions** every **Sunday**. This allows you to review the material and clarify issues before moving on.
 
+### **Week 1: Day 1 - Introduction to Spring** 🌱
 - **🧩 What is the Spring Framework?**  
-  Learn what Spring is and why it’s widely used in Java development.
-
+  Basics and benefits of Spring.
 - **📦 The Dependency Injection (DI) Container**  
-  Discover how Spring manages object creation and dependencies.
-
+  How Spring manages dependencies.
 - **📜 Spring Framework History**  
-  Briefly explore how Spring has evolved over the years.
-
+  Evolution and history of Spring.
 - **🔬 Spring Overview Lab**  
-  Start with a hands-on exercise to see Spring in action.
-
+  Hands-on exercise to get started.
 - **🎥 Demo - Spring Overview Lab**  
-  Watch a demonstration to better understand the lab exercises.
+  Demo of the lab exercises.
 
----
-
-### **Day 2: Basics of Java Configuration** ⚙️
-
+### **Week 2: Day 2 - Basics of Java Configuration** ⚙️
 - **🚀 Quick Start with Java Configuration**  
-  Learn how to set up Spring configurations using Java.
-
+  Setting up Spring using Java.
 - **🏛️ The Application Context**  
-  Understand the central interface in Spring that provides configuration and access to beans.
-
+  Core container in Spring.
 - **🔄 Handling Multiple Configurations**  
-  Explore techniques for managing different configuration files.
-
+  Managing different configurations.
 - **🔍 Bean Scopes**  
-  Discover different scopes of beans and their use cases.
-
+  Various bean scopes and their uses.
 - **💻 Java Configuration Lab**  
-  Apply Java configuration in a practical lab session.
-
+  Practical lab for Java configuration.
 - **🎬 Demo - Java Configuration Lab**  
-  Review a demonstration of the Java configuration lab.
+  Demo of the Java configuration lab.
 
----
-
-### **Day 3: Advanced Java Configuration** 🛠️
-
+### **Week 3: Day 3 - Advanced Java Configuration** 🛠️
 - **🌍 Use External Properties**  
-  Learn to use properties files to configure your Spring application.
-
+  Configuring Spring using external properties.
 - **🏷️ Spring Profiles**  
-  Understand how to define and use profiles for different environments.
-
+  Handling different environments with profiles.
 - **🧩 Spring Expression Language (SpEL)**  
-  Explore SpEL for querying and manipulating Spring beans.
+  Using SpEL for querying and manipulating beans.
 
----
-
-### **Day 4: Component Scanning and Annotations** 📜
-
+### **Week 4: Day 4 - Component Scanning and Annotations** 📜
 - **🔧 Annotation-based Configuration**  
-  Learn to use annotations for configuring Spring beans.
-
+  Configuring Spring beans with annotations.
 - **⚙️ Configuration Choices**  
-  Explore various configuration options for Spring components.
-
+  Various configuration options.
 - **🔄 Adding Startup and Shutdown Behaviors**  
-  Manage the lifecycle of your beans.
-
+  Managing bean lifecycle behaviors.
 - **🏷️ Stereotype and Meta Annotations**  
-  Study common annotations used in Spring.
-
+  Common annotations in Spring.
 - **🔬 Annotations and Component Scanning Lab**  
-  Practice applying annotations in a hands-on lab.
-
+  Lab for annotations and component scanning.
 - **🎥 Demo - Annotations and Component Scanning Lab**  
-  Watch a demonstration of the annotations lab.
+  Demo of the annotations lab.
 
----
-
-### **Day 5: Understanding the Spring Container** 🏛️
-
+### **Week 5: Day 5 - Understanding the Spring Container** 🏛️
 - **⚙️ Initialization Phase (Part 1)**  
-  Learn how Spring initializes beans.
-
+  Bean initialization process.
 - **🔄 Initialization Phase (Part 2)**  
-  Continue exploring bean initialization with advanced topics.
-
+  Advanced initialization topics.
 - **🚧 Use and Destroy Phases**  
-  Understand how beans are used and destroyed.
-
+  Bean lifecycle management.
 - **📊 Bean Creation Order and Injection Issues**  
-  Study the order of bean creation and common issues with dependency injection.
+  Bean creation and injection issues.
 
----
-
-### **Day 6: Introduction to Aspect-Oriented Programming (AOP)** 🎯
-
+### **Week 6: Day 6 - Introduction to Aspect-Oriented Programming (AOP)** 🎯
 - **❓ What Problems Does AOP Solve?**  
-  Discover the problems AOP addresses and its benefits.
-
+  Benefits and use cases of AOP.
 - **⚙️ Core AOP Concepts and Quick Start**  
-  Get introduced to AOP concepts and start implementing them.
-
+  Core AOP concepts.
 - **🔍 Defining AOP Pointcut Expressions**  
-  Learn to specify where and when aspects should be applied.
-
+  Defining pointcuts for aspects.
 - **🧩 Advice Types**  
-  Explore different types of advice (before, after, around).
-
+  Different types of advice in AOP.
 - **💻 Introducing AOP Lab**  
-  Practice implementing AOP concepts in a lab.
-
+  Practical lab for AOP concepts.
 - **🎬 Demo - Introducing AOP Lab**  
-  Watch a demonstration of the AOP lab exercises.
+  Demo of the AOP lab.
 
----
-
-### **Day 7: Testing Spring Applications** 🧪
-
+### **Week 7: Day 7 - Testing Spring Applications** 🧪
 - **🔍 JUnit 5**  
-  Learn to use JUnit 5 for unit testing Spring applications.
-
+  Using JUnit 5 for unit testing.
 - **🧩 Write Integration Tests using Spring**  
-  Explore writing integration tests to ensure different parts of your application work together.
-
+  Writing integration tests with Spring.
 - **🔄 Configure Tests using Spring Profiles and Working with Databases**  
-  Set up tests using different profiles and databases.
-
+  Setting up and configuring tests.
 - **💻 Testing Spring Applications Lab**  
-  Apply testing concepts in a hands-on lab.
-
+  Practical lab for testing.
 - **🎥 Demo - Testing Spring Applications Lab**  
-  Review a demonstration of the testing lab exercises.
+  Demo of the testing lab.
 
----
-
-### **Day 8: Simplifying JDBC with JdbcTemplate** 🏗️
-
+### **Week 8: Day 8 - Simplifying JDBC with JdbcTemplate** 🏗️
 - **⚠️ Problems with Traditional JDBC and Introduction to JdbcTemplate**  
-  Learn the limitations of traditional JDBC and how JdbcTemplate simplifies database operations.
-
+  Benefits of JdbcTemplate.
 - **🛠️ JdbcTemplate Basic Usage**  
-  Get started with JdbcTemplate for basic database operations.
-
+  Basics of JdbcTemplate.
 - **🔄 Working with ResultSets using Callbacks**  
-  Explore handling database results using callbacks.
-
+  Handling ResultSets with callbacks.
 - **🚧 Exception Handling**  
-  Study exception handling when working with JdbcTemplate.
-
+  Exception handling with JdbcTemplate.
 - **💻 JdbcTemplate Lab**  
-  Practice using JdbcTemplate in a practical lab.
-
+  Practical lab for JdbcTemplate.
 - **🎬 Demo - JdbcTemplate Lab**  
-  Watch a demonstration of the JdbcTemplate lab exercises.
+  Demo of the JdbcTemplate lab.
 
----
-
-### **Day 9: Managing Transactions** 🔄
-
+### **Week 9: Day 9 - Managing Transactions** 🔄
 - **❓ Why Transactions and How Java Supports Them**  
-  Understand the importance of transactions and Java’s support.
-
+  Importance and support for transactions.
 - **⚙️ Spring Transaction Management**  
-  Explore how Spring manages transactions.
-
+  Spring’s transaction management features.
 - **🔄 Configure Transaction Propagation**  
-  Set up different transaction propagation behaviors.
-
+  Managing transaction propagation.
 - **🛠️ Setup Rollback Rules and Testing Support**  
-  Learn to configure rollback rules and support transaction testing.
-
+  Rollback rules and testing support.
 - **💻 Transaction Management Lab**  
-  Implement transaction management concepts in a lab.
-
+  Practical lab for transaction management.
 - **🎥 Demo - Transaction Management Lab**  
-  Watch a demonstration of the transaction management lab exercises.
+  Demo of the transaction management lab.
 
----
+## 📹 Weekly Live Q&A Sessions
 
-## 🚀 Getting Started
+To ensure you get the most out of this course, I will host **weekly live Q&A sessions** every **Sunday** on Zoom or Google Meet. Use this time to:
+- **Ask Questions**: Clarify any doubts or issues you might have.
+- **Discuss Topics**: Dive deeper into complex concepts.
+- **Get Feedback**: Receive personalized guidance on your progress.
 
-Clone this repository to start your journey:
-```bash
-git clone https://github.com/yourusername/Spring-Framework-Essentials.git
+**Zoom/Meet Schedule**: 
+- **Day**: Sunday
+- **Time**: [08:30PM to 10:30PM]
+
+
+## 🎓 Certification and Exam
+
+Upon completing the course, you’ll have the opportunity to earn a **Certificate of Completion**. Here’s what you need to do:
+- **📚 Study Thoroughly**: Engage with all course materials, labs, and demos.
+- **📝 Take the Exam**: The exam will test your knowledge of all covered topics. Prepare well!
+- **🏅 Earn Your Certificate**: Successfully passing the exam will earn you a certificate acknowledging your expertise in the Spring Framework.
+
+## 📚 How to Join
+
+1. **Subscribe to My YouTube Channel**: [https://www.youtube.com/@advindiancoder]
+2. **Follow the Weekly Playlist**: Check out the weekly videos and labs.
+3. **Join the Live Sessions**: Participate in weekly Q&A sessions for direct support.
+4. **Prepare for the Exam**: Study all course materials thoroughly to be ready for the final exam.
+
+## 🎁 Additional Benefits
+
+- **Free Access**: Enjoy all course materials, labs, and live sessions at no cost.
+- **Community Support**: Connect with fellow learners and get additional support.
+
+
 
 
 
