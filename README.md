@@ -1,3 +1,6 @@
+
+
+
 # 🌟 Spring Framework Essentials
 
 Welcome to the **Spring Framework Essentials** course repository! 🚀 This repository contains all the materials and resources for a comprehensive course on the Spring Framework. Dive in to enhance your skills and understanding of this powerful framework.
@@ -237,6 +240,12 @@ Upon completing the course, you’ll have the opportunity to earn a **Certificat
 - **Free Access**: Enjoy all course materials, labs, and live sessions at no cost.
 - **Community Support**: Connect with fellow learners and get additional support.
 
+![Expert One-on-One J2EE Design and Development Book](https://github.com/Vinaykumarmahato/Spring-Framework-Essentials/blob/main/Expert%20One-on-One%20J2EE%20Design%20and%20Development%20Book/source.jpeg)
+## Useful Resources
+
+- [Spring Framework GitHub Repository](https://github.com/spring-projects/spring-framework): The official GitHub repository for the Spring Framework.
+- [Spring Framework Maven Repository](http://mvnrepository.com/artifact/org.springframework): The Maven repository for Spring Framework artifacts.
+- [Spring Framework Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle): The current reference documentation for the Spring Framework.
 
 
 
